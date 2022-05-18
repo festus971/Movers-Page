@@ -120,7 +120,7 @@ form > input,
   color: #ffac12;
 }
 #learnMore {
-  background-color: #000000;
+  background-color: black;
   color: #fff;
   font-weight: 500;
   border-top-right-radius: 15px;
