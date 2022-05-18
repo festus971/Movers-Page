@@ -27,14 +27,11 @@ As a user of the application,you will be able to :
 | :----------------------- | :-------------------------------------: | -----: |
 | Enter your name          |              Festus Kiprop              |        |
 | Enter your Email Address | Festus.kiprop@student.moringaschool.com |        |
-
-|
-
 ### Requirements
 
 - Access to a computer or any other garget ie a mobile phone.
 - Access to internet
-  a
+  
 
 ### Live Link
 
