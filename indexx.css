@@ -154,15 +154,15 @@
   display: flex;
   gap: 20px;
 }
-.fa-twitter {
+.fa-twt {
   color: white;
   font-size: 24px;
 }
-.fa-facebook {
+.fa-fbk {
   font-size: 24px;
   color: white;
 }
-.fa-instagram {
+.fa-ig {
   font-size: 24px;
   color: white;
 }
